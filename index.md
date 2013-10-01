@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: settinghead's blog
+tagline: Rails, Java, Big Data & rants on [how governments totally suck](http://www.youtube.com/watch?v=Jy5e0L1p0cI).
 ---
 {% include JB/setup %}
 
