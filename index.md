@@ -7,7 +7,7 @@ tagline: ...until I make a better blogging engine.
 
 ## What's in here?
 
-Mainly tech articles.
+Tech articles.
 
 <ul class="posts">
   {% for post in site.posts %}
