@@ -1,13 +1,13 @@
 ---
 layout: page
-title: settinghead's blog
-tagline: Rails, Java, Big Data & shit that matters
+title: Xiyang Chen's Dev Blog
+tagline: ...until I make a better blogging engine.
 ---
 {% include JB/setup %}
 
 ## What's in here?
 
-Mainly tech articles. I share stuff that I think will be beneficial to others.
+Mainly tech articles.
 
 <ul class="posts">
   {% for post in site.posts %}
