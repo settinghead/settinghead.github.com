@@ -1,3 +1,3 @@
 [submodule "angular-best-practices-slides"]
 	path = angular-best-practices-slides
-	url = git@github.com:settinghead/angular-best-practices-slides
+	url = https://github.com/settinghead/angular-best-practices-slides
